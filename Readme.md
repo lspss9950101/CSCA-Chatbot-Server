@@ -36,4 +36,10 @@ sudo docker build -t chatbot .
 sudo sh start_docker.sh
 ```
 - Enter container
-``` sudo docker exec -it CONTAINER_ID bash
+```
+sudo docker exec -it CONTAINER_ID bash
+```
+
+## Referance ##
+- https://github.com/zhanghongnian/docker_nginx_gunicorn_flask
+
